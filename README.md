@@ -9,8 +9,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/arun-kumar-ba6411175#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/arun-kumar-ba6411175#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/a__.kay#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/a__.kay#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/a___.kay#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/a___.kay#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -34,5 +34,5 @@
 
 </details>
 
-[instagram]: https://instagram.com/a__.kay
+[instagram]: https://instagram.com/a___.kay
 [linkedin]: https://linkedin.com/in/arun-kumar-ba6411175
