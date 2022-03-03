@@ -1,8 +1,8 @@
-# Hi there, I'm Arun Kumar - aka akay 👋
+# Hi there, I'm Arun Kumar 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to watch movies and interested in filmmaking
+- ⚡ Fun fact: I love to watch movies
 
 ### Connect with me:
 
@@ -14,6 +14,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="C++" width="26px" src="<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
