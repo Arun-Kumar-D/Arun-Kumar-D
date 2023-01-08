@@ -1,7 +1,7 @@
 # Hi there, I'm Arun Kumar 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Get better at frontend development
 - ⚡ Fun fact: I love to watch movies
 
 ### Connect with me:
