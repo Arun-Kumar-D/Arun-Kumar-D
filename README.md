@@ -1,6 +1,5 @@
-
 ## 🚀 Hi there, I'm Arun Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a full stack developer...
+I'm a DevOps Engineer passionate about automating infrastructure and streamlining deployment pipelines...
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-ba6411175/)
@@ -9,21 +8,26 @@ I'm a full stack developer...
 
 **Talking about Personal Stuffs:**
 
--   👨🏻‍💻 I’m currently working on developing my skills;
--   🚀 I’m currently learning full stack development;
--   💬 Ask me about anything, I am happy to help;
--   📫 How to reach me: arun99kumar.d@gmail.com .
+-   🛠️ Currently working on cloud infrastructure automation and CI/CD pipelines
+-   📚 Learning about containerization orchestration and GitOps workflows
+-   👯 Looking to collaborate on infrastructure as code projects
+-   💬 Ask me about AWS, Terraform, Docker, or DevOps best practices
+-   📫 How to reach me: arun99kumar.d@gmail.com
 
 </br>
 
 💪 **Technical Proficiencies:**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 📈 **My GitHub Stats:**
 
@@ -31,3 +35,29 @@ I'm a full stack developer...
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun-Kumar-D&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Kumar-D&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
+
+## 🔧 Technologies & Tools
+
+**Infrastructure as Code:**
+- Terraform,
+
+**CI/CD:**
+- Jenkins, GitLab CI/CD, GitHub Actions, Bitbucket
+
+**Cloud Providers:**
+- AWS
+
+**Containerization & Orchestration:**
+- Docker, Kubernetes, ECS, EKS
+
+**Monitoring & Observability:**
+- Prometheus, Grafana, ELK Stack
+
+**Configuration Management:**
+- Ansible
+
+**Version Control:**
+- Git, GitHub, GitLab, Bitbucket
+
+**Scripting & Programming:**
+- Python, Bash, PowerShell
