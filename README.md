@@ -9,7 +9,6 @@ I'm a DevOps Engineer passionate about automating infrastructure and streamlinin
 **Talking about Personal Stuffs:**
 
 -   🛠️ Currently working on cloud infrastructure automation and CI/CD pipelines
--   📚 Learning about containerization orchestration and GitOps workflows
 -   👯 Looking to collaborate on infrastructure as code projects
 -   💬 Ask me about AWS, Terraform, Docker, or DevOps best practices
 -   📫 How to reach me: arun99kumar.d@gmail.com
